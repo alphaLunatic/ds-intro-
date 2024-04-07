@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+__pycache__
+data/
+airflow_hw/data/
+*.ipynb_checkpoints
+*.gitkeep
